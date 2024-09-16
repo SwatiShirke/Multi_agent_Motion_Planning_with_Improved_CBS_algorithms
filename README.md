@@ -30,11 +30,13 @@ run :
 - python3 run main.py
 
 
-<img src="code/
 
-data/3dsimulation.gif" alt="Logo" width="500" height="200">
 
 ## Results Analysis
+
+<img src="code/data/results.gif" alt="Logo" width="500" height="200">
+
+<img src="code/data/3dsimulation.gif" alt="Logo" width="500" height="200">
 
 The results are analyzed for two types of agents, holonomic and non-holonomic, with key aspects of motion planning performance considered as follows:
 
