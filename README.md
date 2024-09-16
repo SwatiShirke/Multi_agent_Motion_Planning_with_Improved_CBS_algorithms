@@ -41,7 +41,7 @@ run :
 
 ArgOS implementation is yet to be added.
 
-<img src="data/3dsimulation.gif" alt="Logo" width="500" height="200">
+<img src="code/data/3dsimulation.gif" alt="Logo" width="500" height="200">
 
 ## Results
 
@@ -56,7 +56,7 @@ Results are analyzed for two types of agents, holonomic and non-holonomic consid
   * Paths found for non-holonomic agents doesnot guarantee finding a solution.
 
 ## Edge Cases
-<img src="data/edge_case.gif" alt="Logo" width="500" height="200">
+<img src="code/data/edge_case.gif" alt="Logo" width="500" height="200">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
