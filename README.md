@@ -7,7 +7,7 @@ This repository explores the essential area of multi-agent path planning for non
 - We have employed Hybrid A star algorithm in 2D environment to plan paths for multi agents. Hybrid A star will be acting as the low-level algorithm for ICBS.
 - We have implemented the algorithm which employs prioritized conflict resolution and disjoint splitting to enhance the path planning process.
 
-<img src="codes/results/stages.png" alt="Logo" width="800" height="200">
+<img src="code/results/stages.png" alt="Logo" width="800" height="200">
 Stages: a)Agents at initial position, b) Agent 1(left) is prioritized so agent 2 changed the path, c) Agent 2 planned a parallel optimum path for goal,
 d) Agents at goal position, (Green dots shown illustrate the conflict locations resolved/ avoided while planning path
 
